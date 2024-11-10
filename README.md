@@ -1,8 +1,8 @@
 # Activador de Windows 11
 
-Este proyecto proporciona un **activador** para **Windows 11**. El propósito de este proyecto es permitir a los usuarios activar su sistema operativo de manera fácil y rápida, siempre respetando los términos y condiciones de licencias válidas de Microsoft.
+Este proyecto proporciona un **activador** para **Windows 11**. El propósito de este proyecto es permitir a los usuarios activar su sistema operativo de manera fácil y rápida sin que sea necesario una Llave de Activación de Microsoft.
 
-**Nota Importante**: Usar este software para activar una copia de Windows sin una licencia válida es ilegal y está en contra de las políticas de Microsoft. Este proyecto solo debe usarse en entornos donde esté permitido o en situaciones en las que se haya adquirido una licencia legítima.
+**Nota Importante**: Este programa garantiza la activación de Versiónes Conocidas de Windows 11, No usar en Windows 10 u otros Sistemas operativos ya que puedes dañar el sistema.
 
 ## Contenido
 
@@ -15,7 +15,7 @@ Este proyecto proporciona un **activador** para **Windows 11**. El propósito de
 
 ## Requisitos
 
-- Una **copia original** de Windows 11 que requiere activación.
+- Tener instalado una versión de **Windows 11** Común.
 - Sin o con Conexión a **Internet** (De ambos modos funciona).
 - Privilegios de **administrador** en el sistema donde se realizará la activación.
 
