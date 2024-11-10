@@ -1,4 +1,4 @@
-# Activador de Windows 11
+# WinActivator11 - Activador de Windows 11 Global
 
 Este proyecto proporciona un **activador** para **Windows 11**. El propósito de este proyecto es permitir a los usuarios activar su sistema operativo de manera fácil y rápida sin que sea necesario una Llave de Activación de Microsoft.
 
