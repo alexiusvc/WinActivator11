@@ -55,4 +55,5 @@ Este proyecto está Creado por Alex Boss. Gracias por usar nuestro proyecto.
 
 
   
-![Captura](https://github.com/user-attachments/assets/dd1d876b-a0a9-4996-a364-0d6019348ec3)
+![Captura](https://github.com/user-attachments/assets/243cfb10-96ee-4849-8a53-066ac80bdf43)
+
