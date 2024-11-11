@@ -2,7 +2,7 @@
 
 Este proyecto proporciona un **activador** para **Windows 11**. El propósito de este proyecto es permitir a los usuarios activar su sistema operativo de manera fácil y rápida sin que sea necesario una Llave de Activación de Microsoft.
 
-**Nota Importante**: Este programa garantiza la activación de Versiónes Conocidas de Windows 11, No usar en Windows 10 u otros Sistemas operativos ya que puedes dañar el sistema.
+**Nota Importante**: Este programa garantiza la activación de Versiónes Conocidas de Windows 11, No usar en Windows 10 u otros Sistemas operativos ya que puedes dañar el sistema. Si Tienes Windows 10 Usa la versión de WinActivator10, toca [Aquí](https://github.com/alexiusvc/WinActivator10) para ver WinActivator 10.
 
 ## Contenido
 
